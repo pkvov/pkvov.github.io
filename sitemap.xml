@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>http://blog.vikedata.com/</loc>
-    <lastmod>2018-08-17T16:22:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.vikedata.com/posts/</loc>
     <lastmod>2018-08-17T16:22:02+08:00</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>http://blog.vikedata.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.vikedata.com/</loc>
+    <lastmod>2018-08-17T16:22:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
